@@ -31,7 +31,7 @@ Enjoy!
 At Level 3🙆‍♂️
 ![Level Three](resources/at-lv-3.png)
 when you defeath Batman😎:
-![you-won](resources/won.png)
+![you-won](resources/Lego%20Wars.gif)
 
 ### Other References
 * [Adding the core.jar to Build path in IntelliJ IDEA](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project)
