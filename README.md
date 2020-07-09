@@ -27,9 +27,7 @@ Enjoy!
 ⬆️ UP for jumping 
 ➡️ RIGHT for shooting
 
-### Gameplay Screenshots
-At Level 3🙆‍♂️
-![Level Three](resources/at-lv-3.png)
+### Gameplay
 when you defeath Batman😎:
 ![you-won](resources/Lego%20Wars.gif)
 
