@@ -27,12 +27,11 @@ Enjoy!
 ⬆️ UP for jumping 
 ➡️ RIGHT for shooting
 
-### Gameplay
-when you defeath Batman😎:
+### Gameplay😎
 ![you-won](resources/Lego%20Wars.gif)
 
-### Other References
+### References
 * [Adding the core.jar to Build path in IntelliJ IDEA](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project)
 * Read more on [Processing](https://knowledge.kitchen/Introduction_to_Processing)
 
-This was one of my first Java programs.
+This was one of my first Java programs.🙌
